@@ -1,0 +1,35 @@
+body{
+	background: url(a.jpg);
+	display: flex;
+	justify-content: center;
+	
+}
+
+.timer{
+	background: rgb(40, 103, 105);
+	position: absolute;
+	padding: 25px;
+	height: 200px;
+	border-radius: 10px;
+
+}
+
+
+form{
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+}
+
+form input{
+	height: 30px;
+	border: 0.4px solid #adadad;
+	border-radius: 3px;
+}
+
+button{
+	padding: 10px;
+	background-color: : red;
+	width: 150px;
+	letter-spacing: 1.4px;
+}
